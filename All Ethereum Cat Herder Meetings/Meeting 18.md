@@ -9,7 +9,7 @@ Ron Resnick and Paul DiMarzio provided EEA background. Attendees made introducti
 
 Approved to have an open forum co-hosted by the EEA, the Cat Herders, and Ethereum Magicians and the Foundation. Forum is 1.5 hours. Launching a working group on the Ethereum mainnet. Agenda includes 10 minutes of introductions, followed by the EEA roadmap. 
 
-Brett Robertson praised the collaboration and communication. Ron Resnick asked for suggestions as to how to move this forward. Paul is the EEA marketing contact. EEA has an open req for a Technical Director. Everyone agreed to open a communication channel on Gitter - https://gitter.im/ethereum-cat-herders/EEA-mainnet. Hugo Sanchez suggested discussing specific issues and use cases enterprises may be having. 
+Brett Robertson praised the collaboration and communication. Ron Resnick asked for suggestions as to how to move this forward. Paul is the EEA marketing contact. EEA has an open req for a Technical Director. Everyone agreed to open a public communication channel on Gitter - https://gitter.im/ethereum-cat-herders/EEA-mainnet. Hugo Sanchez suggested discussing specific issues and use cases enterprises may be having. 
 1. Hard Fork Coordination Update
 There was a proposal to change the name of hard forks going forward. Naming convention would be to use where the Devcon takes place. We'll be waiting for Parady to finish the implementation and come up with a block number to execute the fork. 
 
@@ -26,32 +26,18 @@ Nothing has been determined about what the problem is beyond the Gitcoin discrep
    1. Update on ECH Notes funding ECH funding
    Cat Herders want to coordinate who takes all notes with the Gitcoin bounty system. 
 1. Helping to organize the pre-devcon [EthMagicians council](https://ethereum-magicians.org/t/council-of-osaka-date-and-place/3367/16).
-
-
-Tim Beiko has submitted the workshop - we will see if it will be accepted in the next few weeks. 
+Event will be on Monday before DevCon. The EthMagicians Council Organizers are in charge, and Tim Beiko called for anyone in or out of the Cat Herders to help if they can.   
 1. Any Other Business
-At (7:20), Pooja Ranjan suggested a process for helping new people start in the note-taking process. She doesn't want us to follow the GitCoin bounty and wants us to shift to the calendar Brett has created. Tim expressed concern that this may make Brett a bottleneck in the process. Pooja says she didn't think so. Nobody objected. 
-1. Review of outstanding action items from Meeting 12
+Brett Robertson asked for approval to go out and promote note taking for Cat Herders. He will reach out to people who have previously taken notes. Brent Allsop pointed out different overlapping processes.
+1. Review of outstanding action items from Meeting 17
+No action items reviewed. 
 
-Moderator: Tim Beiko
-
-## MEETING DECISIONS
-- DECISION 11.1: Pooja has created the [Emergency Communications Template document](https://github.com/poojaranjan/ECH-PM/blob/master/Constantinople%20Postmortem%20Report/EmergencyCommTemplate.md).
-- DECISION 11.1: Voted within the Ethereum Cat Herders DAO that 100 DAI is appropriate for Ethereum Core Dev and Ethereum 2.0 Notes and 50 DAI for ECH notes.
-- DECISION 14.7: Lane, with Brett, set up a a seperate Gnosis wallet to assist with registering for reputation within the dxDAO. Transferred 100 DAI into it. Brett used those funds to stake in the dxDAO initialization process. Funds will be returned after a 30-day staking period. 
+Moderator: Brett Robertson
 
 ## MEETING ACTIONS
-- ACTION 9.1: ProgPow audit is on hold
-- ACTION 9.4: Separating funds - Lane gave an update earlier in the meeting. More to accomplish. 
-- ACTION 12.2, 14.1: Discrepencies in GitCoin bounty to be merged with 14.1, as they are duplicates.
-- ACTION 14.2: Decision was made to separate ProgPow funding from Catherders funding, but won't remove item until implemented.
-- ACTION 14.3: William to work with Lane on an intiative to perform an account of the current ECH funding. Still open. 
-- ACTION 14.5: Engage with Hudson regarding the requirements for streaming of ECH calls. Pooja will follow up with Hudson.
-- ACTION 14.6: Tim will raise a PR to link the Live streaming document within the Cat Herders repo. Lane will merge if possible. 
+- ACTION 1.1: Brent Allsop agreed to contact Kevin Owocki to follow up on Gitcoin discrepancies.
+- ACTION 1.2: Pooja Ranjan agree to create the [Ether Cat Herders EEA-mainnet public communications forum.](https://gitter.im/ethereum-cat-herders/EEA-mainnet) 
 
-## 1. Questions about Note Taking Process
-
-Brent Allsop asked about Zoom meeting invitations. Brent Allsop and Jim Bennett were invited into the internal channel. Decision was also made to add the meeting invite link to the public catherders community channel. 
 
 ## 10. Next Meeting: 10 September 2019 at 2pm UTC.
 
