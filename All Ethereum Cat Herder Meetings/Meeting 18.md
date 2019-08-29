@@ -1,13 +1,13 @@
-# Ethereum Cat Herders Meeting 15 Notes
-### Meeting Date/Time: Tue, July 9, 2019 14:00 UTC
+# Ethereum Cat Herders Meeting 18 Notes
+### Meeting Date/Time: Tue, August 27, 2019 14:00 UTC
 ### Meeting Duration: 22 minutes
-### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/80)
-### [Video of the meeting](https://www.youtube.com/watch?v=6cFKgsfJqZA&feature=youtu.be)
+### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/86)
+### [Video of the meeting](https://www.youtube.com/watch?v=TchZf72fNks&feature=youtu.be)
 
 1. Update on ProgPow Audit
 Neither Charles nor Hudson were there to provide info.
 1. Hard Fork Coordination Update
-No info. Tim Beiko will create action item to see if James Hancock will help. 
+No info. Tim Beiko will create action item to see if James Hancock will help
 1. Updates on the action items from Constantinople post-mortem
 Pooja Ranjan added comments and asked if anyone wanted to add anything else. At (4:12), Helena Flack said she had looked at the Emergency Communications Template and had put some things she wanted to add into a Google doc that she wants to merge with GitHub. 
 1. Funding/accounting/multisig 
